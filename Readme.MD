@@ -1,1 +1,1 @@
-This is a AI powered finances and budgeting app.
+This is a AI powered finances and budgeting app called ExpenseWise.ai,it uses AI to help people manage their expenses and budget their money.
