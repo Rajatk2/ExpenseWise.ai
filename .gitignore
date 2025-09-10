@@ -4,4 +4,4 @@ dist/
 build/
 .DS_Store
 /next-env.d.ts
-.next/
+/.next
