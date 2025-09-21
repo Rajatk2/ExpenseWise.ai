@@ -193,6 +193,14 @@ export default function Navbar() {
               <span className='text-base'>📞</span>
               <span>Contact</span>
             </Link>
+            <Link
+              href='/chat'
+              className='flex items-center gap-3 px-3 py-2.5 rounded-lg text-gray-700 dark:text-gray-300 hover:text-emerald-600 dark:hover:text-emerald-400 hover:bg-emerald-50/50 dark:hover:bg-emerald-900/20 text-sm font-medium transition-all duration-200 active:scale-95'
+              onClick={closeMobileMenu}
+            >
+              <span className='text-base'>💬</span>
+              <span>Chat</span>
+            </Link>
 
             {/* Mobile Authentication */}
             <div className='pt-3 border-t border-gray-200/50 dark:border-gray-600/50'>
